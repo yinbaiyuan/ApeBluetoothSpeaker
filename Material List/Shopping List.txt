@@ -1,0 +1,29 @@
+
+核心材料
+
+ws2812 16*16 柔性点阵屏		*1
+TPA3116 2.1大功率HIFI数字功放板          	*1
+ESP8266 WIFI 模块               		*1
+24V 5A 电源适配器                		*1
+XH-M400 可调压降压模块		*1
+L-280C分频器高低二分频器		*2
+6.5寸中低音 8欧 重低音喇叭		*2
+3寸全频喇叭 8欧 	 		*2
+2寸钛膜高音喇叭 8欧 		*2
+
+
+外壳制作材料（参考Design文件夹）
+5mm 密度板切割                		*9
+1.5mm 椴木板切割                  		*1
+2mm 深茶色亚克力切割		*1
+1mm 白色匀光板切割              		*1
+
+
+PCB板及原件（参考Circuit文件夹）
+
+蓝牙音箱核心控制板 PCB板打样         	BluetoothSpeakerMainBoard.PcbDoc
+元件请参考			BluetoothSpeakerMainBoard.pdf
+
+按键模组	PCB板打样		ButtonBoard.PcbDoc
+元件请参考			ButtonBoard.pdf
+
